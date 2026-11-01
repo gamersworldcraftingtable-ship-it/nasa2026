@@ -11,6 +11,8 @@ Psikolojik destek akışı, görev sırasında korku ve kaygıyı yargılamadan 
 
 Arayüzü, belirti sınıflandırmayı, kabus sonrası uyandırma akışını ve birinci şahıs 3D EVA görevini görmek için `TWENTY-demo.html` dosyasını bir tarayıcıda aç. Astronotu WASD ve ↑/↓ ile fiziksel anten desteğine doğru hareket ettir; çarpışınca sistemli/sistemsiz animasyonlar kendiliğinden başlar. Tek dosyalık demo kurulum gerektirmez; 3D sahne, sensör verileri ve bildirimler simülasyondur.
 
+Vercel gibi statik barındırma servislerinde kök sayfa `index.html` dosyasından açılır; bu dosya demo arayüzünün kopyasıdır.
+
 ## Çalıştırma
 
 Node.js 20 veya üzeri gerekir.
